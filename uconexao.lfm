@@ -1,0 +1,94 @@
+object dfmConexao: TdfmConexao
+  Left = 861
+  Height = 296
+  Top = 356
+  Width = 320
+  BorderIcons = [biSystemMenu]
+  Caption = 'Conexão DB'
+  ClientHeight = 296
+  ClientWidth = 320
+  OnShow = FormShow
+  LCLVersion = '2.2.6.0'
+  object btnSalvar: TBitBtn
+    Left = 168
+    Height = 46
+    Top = 240
+    Width = 91
+    Caption = 'Conectar'
+    OnClick = btnSalvarClick
+    TabOrder = 0
+  end
+  object edtDatabase: TEdit
+    Left = 16
+    Height = 23
+    Top = 32
+    Width = 281
+    TabOrder = 1
+    Text = 'edtDatabase'
+  end
+  object Label1: TLabel
+    Left = 16
+    Height = 15
+    Top = 16
+    Width = 48
+    Caption = 'Database'
+    ParentColor = False
+  end
+  object edtUser: TEdit
+    Left = 16
+    Height = 23
+    Top = 88
+    Width = 281
+    TabOrder = 2
+    Text = 'edtUser'
+  end
+  object Label2: TLabel
+    Left = 16
+    Height = 15
+    Top = 72
+    Width = 23
+    Caption = 'User'
+    ParentColor = False
+  end
+  object edtPassword: TEdit
+    Left = 16
+    Height = 23
+    Top = 144
+    Width = 281
+    TabOrder = 3
+    Text = 'edtPassword'
+  end
+  object Label3: TLabel
+    Left = 16
+    Height = 15
+    Top = 128
+    Width = 50
+    Caption = 'Password'
+    ParentColor = False
+  end
+  object edtPort: TEdit
+    Left = 16
+    Height = 23
+    Top = 200
+    Width = 281
+    TabOrder = 4
+    Text = 'edtPort'
+  end
+  object Label4: TLabel
+    Left = 16
+    Height = 15
+    Top = 184
+    Width = 22
+    Caption = 'Port'
+    ParentColor = False
+  end
+  object btnCancelar: TBitBtn
+    Left = 64
+    Height = 46
+    Top = 240
+    Width = 91
+    Caption = 'Cancelar'
+    OnClick = btnCancelarClick
+    TabOrder = 5
+  end
+end

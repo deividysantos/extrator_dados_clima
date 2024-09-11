@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Leitor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="44" Y="14"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dfmPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPrincipal"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="166"/>
+        <CursorPos X="50" Y="191"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uconexao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dfmConexao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uConexao"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="44"/>
+        <CursorPos X="4" Y="64"/>
+        <UsageCount Value="50"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uUtils"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="66"/>
+        <CursorPos X="57" Y="66"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uLeituraRepository"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="78"/>
+        <CursorPos Y="98"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Repositories\uRepository.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="30" Y="35"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Models\utypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTypes"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="12"/>
+        <CursorPos X="18" Y="31"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Repositories\uufrepository.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uUFRepository"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="16"/>
+        <CursorPos X="48" Y="48"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Models\umodel.pas"/>
+        <UnitName Value="uModel"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="29"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Models\uleituramodel.pas"/>
+        <UnitName Value="uLeituraModel"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="19" Y="16"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uatualizador.pas"/>
+        <UnitName Value="uAtualizador"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="8" Y="21"/>
+        <UsageCount Value="37"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ubaixaraquivos.pas"/>
+        <UnitName Value="uArquivos"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="9"/>
+        <UsageCount Value="28"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="187"/>
+        <CursorPos X="26" Y="206"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\objpas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="317"/>
+        <CursorPos X="9" Y="325"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pichau\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\component\ZAbstractRODataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3260"/>
+        <CursorPos X="38" Y="3262"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\paszlib\src\zip.pas"/>
+        <UnitName Value="Zip"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="756"/>
+        <CursorPos X="5" Y="793"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\paszlib\src\zipper.pp"/>
+        <UnitName Value="Zipper"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="201"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uarquivos.pas"/>
+        <UnitName Value="uArquivos"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="191"/>
+        <CursorPos X="43" Y="213"/>
+        <UsageCount Value="22"/>
+        <Bookmarks Count="1">
+          <Item0 X="5" Y="158" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1853"/>
+        <CursorPos X="3" Y="1872"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="683"/>
+        <CursorPos X="10" Y="702"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uprincipal.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="32" Y="20"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="882"/>
+        <CursorPos X="21" Y="905"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="422"/>
+        <CursorPos X="3" Y="440"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pichau\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\component\ZConnection.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="17" Y="52"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pichau\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\component\ZAbstractConnection.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="89"/>
+        <CursorPos X="59" Y="101"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pichau\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\component\ZDataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="45"/>
+        <CursorPos X="14" Y="52"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-process\src\process.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="21" Y="32"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-process\src\pipes.pp"/>
+        <UnitName Value="Pipes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-process\src\processbody.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="40" Y="39"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pichau\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\component\ZAbstractDataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="136"/>
+        <CursorPos X="17" Y="154"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="113"/>
+        <CursorPos X="3" Y="137"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Models\uRepository.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Models\uleituraRepository.pas"/>
+        <UnitName Value="uLeituraRepository"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="29" Y="25"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="101"/>
+        <CursorPos X="10" Y="134"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Repositories\uestacaorepository.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEstacaoRepository"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="28"/>
+        <CursorPos X="5" Y="59"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="82" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="83" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="84" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="85" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="86" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="87" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="88" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="89" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="90" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="91" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="92" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="93" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="94" Column="50" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="98" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="100" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="101" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="102" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="103" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="104" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="105" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="106" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="107" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="108" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="109" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="Repositories\uleituraRepository.pas"/>
+        <Caret Line="110" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="uarquivos.pas"/>
+        <Caret Line="201" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="uarquivos.pas"/>
+        <Caret Line="175" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="uarquivos.pas"/>
+        <Caret Line="177" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="uarquivos.pas"/>
+        <Caret Line="223" Column="11" TopLine="190"/>
+      </Position>
+      <Position>
+        <Filename Value="uarquivos.pas"/>
+        <Caret Line="25" Column="22" TopLine="58"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Repositories\uRepository.pas"/>
+        <Line Value="40"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="Query.connection"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
